@@ -27,5 +27,11 @@
     },
     "css.lint.unknownProperties": "ignore",
     "docify.commentService.docstringFormat": "JsDoc",
-    "docify.commentService.programmingLanguage": "javascript"
+    "docify.commentService.programmingLanguage": "javascript",
+    "[typescript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[vue]": {
+        "editor.defaultFormatter": "Vue.volar"
+    }
 }
