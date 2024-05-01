@@ -15,7 +15,8 @@
     "streamingDistance": 400,
     "migrationDistance": 150,
     "modules": [
-        "js-module"
+        "js-module",
+        "csharp-module"
     ],
     "resources": [
         "core"
@@ -24,7 +25,7 @@
         "athena",
         "framework",
         "version",
-        "3"
+        "5"
     ],
     "vue-athena": true
 }

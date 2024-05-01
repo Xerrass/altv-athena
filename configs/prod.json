@@ -22,7 +22,11 @@
     ],
     "resources": [
         "webviews",
-        "core"
+        "core",
+        "mods/misc/addon-map",
+        "mods/vehicles/tempesta-evo-stradale",
+        "mods/vehicles/dominator-classic",
+        "mods/vehicles/pd-bike"
     ],
     "tags": [
         "athena",

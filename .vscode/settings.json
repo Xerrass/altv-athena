@@ -33,5 +33,8 @@
     },
     "[vue]": {
         "editor.defaultFormatter": "Vue.volar"
+    },
+    "[toml]": {
+        "editor.defaultFormatter": "tamasfe.even-better-toml"
     }
 }
